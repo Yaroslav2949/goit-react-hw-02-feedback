@@ -1,11 +1,11 @@
 import { Component } from 'react';
-import css from './App.module.css';
+// import css from './App.module.css';
 import { FeedBackContainer } from './FeedBackContainer/FeedBackContainer';
 import { FeedbackOptions } from './FeedbackOptions/FeedbackOptions';
 import { Section } from './Section/Section ';
 import { Statistics } from './Statistics/Statistics';
 import { Notification } from './Notification/Notification';
-import { object } from 'prop-types';
+
 
 export class App extends Component {
   state = {
