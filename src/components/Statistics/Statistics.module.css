@@ -1,0 +1,10 @@
+.StatList {
+    margin-top: 10px;
+    text-align: left;
+  }
+  
+  .ListItem {
+    color: var(--secTextColor);
+    font-size: 18px;
+    font-weight: 500;
+  }
